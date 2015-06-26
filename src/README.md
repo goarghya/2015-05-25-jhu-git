@@ -17,3 +17,5 @@ src for source code
 1. item 1
    1.  item 2
         1. item 3
+
+markdown has *italic* and **bold** and links(https://github.com/chendaniely/2015-06-25-jhu-git)
